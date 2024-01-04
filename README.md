@@ -1,8 +1,6 @@
-![Web developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/217703309_1228345957579614_3169764445194689778_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9534ce&_nc_ohc=VS31bUOX66gAX9I1_Aj&_nc_oc=AQm8_Amd288OFMW0mKvDrmbjjMovE6TC7L-VXbWtgsRldZRvYmRMnS_G4z5DGeRqDmI&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDB0PD2tlhVTvJIZybGu-iFV3rWUS4CB-vAVWb3xB5Lcg&oe=659A55C3)
-
 ### Hi there 👋, I'm Mamun
 #### Web developer
-
+![Web developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/217703309_1228345957579614_3169764445194689778_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9534ce&_nc_ohc=VS31bUOX66gAX9I1_Aj&_nc_oc=AQm8_Amd288OFMW0mKvDrmbjjMovE6TC7L-VXbWtgsRldZRvYmRMnS_G4z5DGeRqDmI&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDB0PD2tlhVTvJIZybGu-iFV3rWUS4CB-vAVWb3xB5Lcg&oe=659A55C3)
 
 I'm a full stuck web developer who is passionate about making error-free websites with 100% client satisfaction. I have passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with .NET but some technologies I enjoy working with include React JS, VUEJS, JavaScript, as well as Python.
 
